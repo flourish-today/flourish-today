@@ -13,4 +13,4 @@ Hello, I'm FlourishDev
 
 - [flourish.today@protonmail.com](mailto:flourish.today@protonmail.com)
 - [SimpleX](https://smp17.simplex.im/a#OYNzLgLMY-vsrI69LroxLrhc4xkyLGpT2Q5ygNvoaAc)
-- [SSH key](https://beeswax.getflourish.org/ssh-key.txt): `SHA256:JIKl/R/Y0xf8TngOPgf+LGlrbN3DUnBiQaebSjRgRS4`
+- [SSH key](https://beeswax.getflourish.org/ssh-key.txt) `SHA256:JIKl/R/Y0xf8TngOPgf+LGlrbN3DUnBiQaebSjRgRS4`
